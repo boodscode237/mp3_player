@@ -33,7 +33,7 @@ def add_many_songs():
 
 
 def delete_song():
-    pass
+    playlist_box.delete()
 
 
 def delete_all_songs():
